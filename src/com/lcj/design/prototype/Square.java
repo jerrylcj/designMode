@@ -11,6 +11,4 @@ public class Square extends Shape {
 		System.out.println("Inside Square::draw() method.");
 	}
 	
-	
-
 }
